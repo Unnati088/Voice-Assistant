@@ -45,5 +45,3 @@ A simple Python-based voice assistant that can:
 
 ---
 
-## Author
-Made by **[Your Name]** 🎯
